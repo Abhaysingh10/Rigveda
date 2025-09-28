@@ -8,7 +8,7 @@
           "suktaNumber": 1,
           "rsi": "Madhucchandas",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -107,7 +107,7 @@
           "suktaNumber": 2,
           "rsi": "Madhucchandas",
           "deity": "Vayu, Indra and Vayu, Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -206,7 +206,7 @@
           "suktaNumber": 3,
           "rsi": "Madhucchandas",
           "deity": "Asvins, Indra, All the Gods and Sarasvati",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -335,7 +335,7 @@
           "suktaNumber": 4,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -444,7 +444,7 @@
           "suktaNumber": 5,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -553,7 +553,7 @@
           "suktaNumber": 6,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -662,7 +662,7 @@
           "suktaNumber": 7,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -771,7 +771,7 @@
           "suktaNumber": 8,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -880,7 +880,7 @@
           "suktaNumber": 9,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -989,7 +989,7 @@
           "suktaNumber": 10,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -1118,7 +1118,7 @@
           "suktaNumber": 11,
           "rsi": "Madhucchandas",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -1207,7 +1207,7 @@
           "suktaNumber": 12,
           "rsi": "Medhatithi",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -1336,7 +1336,7 @@
           "suktaNumber": 13,
           "rsi": "Medhatithi",
           "deity": "Apri Hymn",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -1465,7 +1465,7 @@
           "suktaNumber": 14,
           "rsi": "Medhatithi",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -1594,7 +1594,7 @@
           "suktaNumber": 15,
           "rsi": "Medhatithi",
           "deity": "Cycle of the Gods",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -1723,7 +1723,7 @@
           "suktaNumber": 16,
           "rsi": "Medhatithi",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -1822,7 +1822,7 @@
           "suktaNumber": 17,
           "rsi": "Medhatithi",
           "deity": "Indra and Varuna",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -1921,7 +1921,7 @@
           "suktaNumber": 18,
           "rsi": "Medhatithi",
           "deity": "Brahmanaspati and Sadasaspati",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -2020,7 +2020,7 @@
           "suktaNumber": 19,
           "rsi": "Medhatithi",
           "deity": "Agni and the Maruts",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -2119,7 +2119,7 @@
           "suktaNumber": 20,
           "rsi": "Medhatithi",
           "deity": "The Ribhus",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -2208,7 +2208,7 @@
           "suktaNumber": 21,
           "rsi": "Medhatithi",
           "deity": "Indra and Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -2277,7 +2277,7 @@
           "suktaNumber": 22,
           "rsi": "Medhatithi",
           "deity": "Diverse Gods",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -2496,7 +2496,7 @@
           "suktaNumber": 23,
           "rsi": "Medhatithi",
           "deity": "Diverse Gods",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -2745,7 +2745,7 @@
           "suktaNumber": 24,
           "rsi": "Medhatithi",
           "deity": "Agni, Savitri and Varuna",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -2904,7 +2904,7 @@
           "suktaNumber": 25,
           "rsi": "Medhatithi",
           "deity": "Varuna",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -3123,7 +3123,7 @@
           "suktaNumber": 26,
           "rsi": "Medhatithi",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -3232,7 +3232,7 @@
           "suktaNumber": 27,
           "rsi": "Medhatithi",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -3371,7 +3371,7 @@
           "suktaNumber": 28,
           "rsi": "Medhatithi",
           "deity": "The Simplified Pressing of Soma",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -3470,7 +3470,7 @@
           "suktaNumber": 29,
           "rsi": "Medhatithi",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -3549,7 +3549,7 @@
           "suktaNumber": 30,
           "rsi": "Medhatithi",
           "deity": "Indra, Final Verses Asvins and Usas",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -3778,7 +3778,7 @@
           "suktaNumber": 31,
           "rsi": "Medhatithi",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -3967,7 +3967,7 @@
           "suktaNumber": 32,
           "rsi": "Medhatithi",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -4126,7 +4126,7 @@
           "suktaNumber": 33,
           "rsi": "Medhatithi",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -4285,7 +4285,7 @@
           "suktaNumber": 34,
           "rsi": "Medhatithi",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -4414,7 +4414,7 @@
           "suktaNumber": 35,
           "rsi": "Medhatithi",
           "deity": "Savitri",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -4533,7 +4533,7 @@
           "suktaNumber": 36,
           "rsi": "Kanva",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -4742,7 +4742,7 @@
           "suktaNumber": 37,
           "rsi": "Kanva",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -4901,7 +4901,7 @@
           "suktaNumber": 38,
           "rsi": "Kanva",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -5060,7 +5060,7 @@
           "suktaNumber": 39,
           "rsi": "Kanva",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -5169,7 +5169,7 @@
           "suktaNumber": 40,
           "rsi": "Kanva",
           "deity": "Brahmanaspati",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -5258,7 +5258,7 @@
           "suktaNumber": 41,
           "rsi": "Kanva",
           "deity": "Adityas",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -5357,7 +5357,7 @@
           "suktaNumber": 42,
           "rsi": "Kanva",
           "deity": "Pusan",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -5466,7 +5466,7 @@
           "suktaNumber": 43,
           "rsi": "Kanva",
           "deity": "Rudra and Soma",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -5565,7 +5565,7 @@
           "suktaNumber": 44,
           "rsi": "Praskanva",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -5714,7 +5714,7 @@
           "suktaNumber": 45,
           "rsi": "Praskanva",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -5823,7 +5823,7 @@
           "suktaNumber": 46,
           "rsi": "Praskanva",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -5982,7 +5982,7 @@
           "suktaNumber": 47,
           "rsi": "Praskanva",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -6091,7 +6091,7 @@
           "suktaNumber": 48,
           "rsi": "Praskanva",
           "deity": "Usas",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -6260,7 +6260,7 @@
           "suktaNumber": 49,
           "rsi": "Praskanva",
           "deity": "Usas",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -6309,7 +6309,7 @@
           "suktaNumber": 50,
           "rsi": "Praskanva",
           "deity": "Surya",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -6448,7 +6448,7 @@
           "suktaNumber": 51,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -6607,7 +6607,7 @@
           "suktaNumber": 52,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -6766,7 +6766,7 @@
           "suktaNumber": 53,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -6885,7 +6885,7 @@
           "suktaNumber": 54,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -7004,7 +7004,7 @@
           "suktaNumber": 55,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -7093,7 +7093,7 @@
           "suktaNumber": 56,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -7162,7 +7162,7 @@
           "suktaNumber": 57,
           "rsi": "Savya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -7231,7 +7231,7 @@
           "suktaNumber": 58,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -7330,7 +7330,7 @@
           "suktaNumber": 59,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Agni Vaisvanara",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -7409,7 +7409,7 @@
           "suktaNumber": 60,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -7468,7 +7468,7 @@
           "suktaNumber": 61,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -7637,7 +7637,7 @@
           "suktaNumber": 62,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -7776,7 +7776,7 @@
           "suktaNumber": 63,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -7875,7 +7875,7 @@
           "suktaNumber": 64,
           "rsi": "Nodhas, Descendant of Gotama",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -8034,7 +8034,7 @@
           "suktaNumber": 65,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8143,7 +8143,7 @@
           "suktaNumber": 66,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8252,7 +8252,7 @@
           "suktaNumber": 67,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8361,7 +8361,7 @@
           "suktaNumber": 68,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8470,7 +8470,7 @@
           "suktaNumber": 69,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8579,7 +8579,7 @@
           "suktaNumber": 70,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -8698,7 +8698,7 @@
           "suktaNumber": 71,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -8807,7 +8807,7 @@
           "suktaNumber": 72,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -8916,7 +8916,7 @@
           "suktaNumber": 73,
           "rsi": "Parasa, the Son of Sakti",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -9025,7 +9025,7 @@
           "suktaNumber": 74,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -9124,7 +9124,7 @@
           "suktaNumber": 75,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -9183,7 +9183,7 @@
           "suktaNumber": 76,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -9242,7 +9242,7 @@
           "suktaNumber": 77,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -9301,7 +9301,7 @@
           "suktaNumber": 78,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -9360,7 +9360,7 @@
           "suktaNumber": 79,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -9489,7 +9489,7 @@
           "suktaNumber": 80,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -9658,7 +9658,7 @@
           "suktaNumber": 81,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -9757,7 +9757,7 @@
           "suktaNumber": 82,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -9826,7 +9826,7 @@
           "suktaNumber": 83,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -9895,7 +9895,7 @@
           "suktaNumber": 84,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -10104,7 +10104,7 @@
           "suktaNumber": 85,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -10233,7 +10233,7 @@
           "suktaNumber": 86,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -10342,7 +10342,7 @@
           "suktaNumber": 87,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -10411,7 +10411,7 @@
           "suktaNumber": 88,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -10480,7 +10480,7 @@
           "suktaNumber": 89,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -10589,7 +10589,7 @@
           "suktaNumber": 90,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -10688,7 +10688,7 @@
           "suktaNumber": 91,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Soma",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -10927,7 +10927,7 @@
           "suktaNumber": 92,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Usas and the Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -11116,7 +11116,7 @@
           "suktaNumber": 93,
           "rsi": "Gotama, the Son of Rahugana",
           "deity": "Agni and Soma",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11245,7 +11245,7 @@
           "suktaNumber": 94,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -11414,7 +11414,7 @@
           "suktaNumber": 95,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11533,7 +11533,7 @@
           "suktaNumber": 96,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni Giver of Goods",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11632,7 +11632,7 @@
           "suktaNumber": 97,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -11721,7 +11721,7 @@
           "suktaNumber": 98,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni Viasvanara",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11760,7 +11760,7 @@
           "suktaNumber": 99,
           "rsi": "Kutsa, the Angiras",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11779,7 +11779,7 @@
           "suktaNumber": 100,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -11978,7 +11978,7 @@
           "suktaNumber": 101,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -12097,7 +12097,7 @@
           "suktaNumber": 102,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -12216,7 +12216,7 @@
           "suktaNumber": 103,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -12305,7 +12305,7 @@
           "suktaNumber": 104,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -12404,7 +12404,7 @@
           "suktaNumber": 105,
           "rsi": "Kutsa, the Angiras",
           "deity": "All the Gods (Trita in the Well)",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -12603,7 +12603,7 @@
           "suktaNumber": 106,
           "rsi": "Kutsa, the Angiras",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -12682,7 +12682,7 @@
           "suktaNumber": 107,
           "rsi": "Kutsa, the Angiras",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -12721,7 +12721,7 @@
           "suktaNumber": 108,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra and Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -12860,7 +12860,7 @@
           "suktaNumber": 109,
           "rsi": "Kutsa, the Angiras",
           "deity": "Indra and Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -12949,7 +12949,7 @@
           "suktaNumber": 110,
           "rsi": "Kutsa, the Angiras",
           "deity": "The Ribhus",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -13048,7 +13048,7 @@
           "suktaNumber": 111,
           "rsi": "Kutsa, the Angiras",
           "deity": "The Ribhus",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -13107,7 +13107,7 @@
           "suktaNumber": 112,
           "rsi": "Kutsa, the Angiras",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -13366,7 +13366,7 @@
           "suktaNumber": 113,
           "rsi": "Kutsa, the Angiras",
           "deity": "Usas",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -13575,7 +13575,7 @@
           "suktaNumber": 114,
           "rsi": "Kutsa, the Angiras",
           "deity": "Rudra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -13694,7 +13694,7 @@
           "suktaNumber": 115,
           "rsi": "Kutsa, the Angiras",
           "deity": "Surya the Sun-God",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -13763,7 +13763,7 @@
           "suktaNumber": 116,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -14022,7 +14022,7 @@
           "suktaNumber": 117,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -14281,7 +14281,7 @@
           "suktaNumber": 118,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -14400,7 +14400,7 @@
           "suktaNumber": 119,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -14509,7 +14509,7 @@
           "suktaNumber": 120,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -14638,7 +14638,7 @@
           "suktaNumber": 121,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -14797,7 +14797,7 @@
           "suktaNumber": 122,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -14956,7 +14956,7 @@
           "suktaNumber": 123,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Usas",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -15095,7 +15095,7 @@
           "suktaNumber": 124,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Usas",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -15234,7 +15234,7 @@
           "suktaNumber": 125,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Praise of the Generous Sacrificer",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -15313,7 +15313,7 @@
           "suktaNumber": 126,
           "rsi": "Kaksivat, the Son of Dirghatamas and Usij",
           "deity": "Thanks for a Present",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -15392,7 +15392,7 @@
           "suktaNumber": 127,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15511,7 +15511,7 @@
           "suktaNumber": 128,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15600,7 +15600,7 @@
           "suktaNumber": 129,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15719,7 +15719,7 @@
           "suktaNumber": 130,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15828,7 +15828,7 @@
           "suktaNumber": 131,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15907,7 +15907,7 @@
           "suktaNumber": 132,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -15976,7 +15976,7 @@
           "suktaNumber": 133,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -16055,7 +16055,7 @@
           "suktaNumber": 134,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Vayu",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16124,7 +16124,7 @@
           "suktaNumber": 135,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Vayu or Indra and Vayu",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16223,7 +16223,7 @@
           "suktaNumber": 136,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16302,7 +16302,7 @@
           "suktaNumber": 137,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16341,7 +16341,7 @@
           "suktaNumber": 138,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "Pusan",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16390,7 +16390,7 @@
           "suktaNumber": 139,
           "rsi": "Parucchepa, Son of Divodasa",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -16509,7 +16509,7 @@
           "suktaNumber": 140,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -16648,7 +16648,7 @@
           "suktaNumber": 141,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -16787,7 +16787,7 @@
           "suktaNumber": 142,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Apri Hymn",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -16926,7 +16926,7 @@
           "suktaNumber": 143,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17015,7 +17015,7 @@
           "suktaNumber": 144,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17094,7 +17094,7 @@
           "suktaNumber": 145,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -17153,7 +17153,7 @@
           "suktaNumber": 146,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17212,7 +17212,7 @@
           "suktaNumber": 147,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17271,7 +17271,7 @@
           "suktaNumber": 148,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17330,7 +17330,7 @@
           "suktaNumber": 149,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -17389,7 +17389,7 @@
           "suktaNumber": 150,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -17428,7 +17428,7 @@
           "suktaNumber": 151,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17527,7 +17527,7 @@
           "suktaNumber": 152,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17606,7 +17606,7 @@
           "suktaNumber": 153,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Mitra and Varuna",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -17655,7 +17655,7 @@
           "suktaNumber": 154,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Vishnu",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17724,7 +17724,7 @@
           "suktaNumber": 155,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Vishnu and Indra",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17793,7 +17793,7 @@
           "suktaNumber": 156,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Vishnu",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17852,7 +17852,7 @@
           "suktaNumber": 157,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -17921,7 +17921,7 @@
           "suktaNumber": 158,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -17990,7 +17990,7 @@
           "suktaNumber": 159,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Heaven and Earth",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -18049,7 +18049,7 @@
           "suktaNumber": 160,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Heaven and Earth",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -18108,7 +18108,7 @@
           "suktaNumber": 161,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "The Ribhus",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -18257,7 +18257,7 @@
           "suktaNumber": 162,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Sacrificial Horse",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -18486,7 +18486,7 @@
           "suktaNumber": 163,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "Praise of the Horse",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -18625,7 +18625,7 @@
           "suktaNumber": 164,
           "rsi": "Dirghatamas, Son of Ucathya and Mamata",
           "deity": "All the Gods (Riddle Song)",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -19154,7 +19154,7 @@
           "suktaNumber": 165,
           "rsi": "Agastya",
           "deity": "Dialogue Between Indra, the Maruts and Agastya",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -19313,7 +19313,7 @@
           "suktaNumber": 166,
           "rsi": "Agastya",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -19472,7 +19472,7 @@
           "suktaNumber": 167,
           "rsi": "Agastya",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -19591,7 +19591,7 @@
           "suktaNumber": 168,
           "rsi": "Agastya",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -19700,7 +19700,7 @@
           "suktaNumber": 169,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -19789,7 +19789,7 @@
           "suktaNumber": 170,
           "rsi": "Agastya",
           "deity": "Dialogue Between Agastya, Indra and the Maruts",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -19848,7 +19848,7 @@
           "suktaNumber": 171,
           "rsi": "Agastya",
           "deity": "The Maruts and Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -19917,7 +19917,7 @@
           "suktaNumber": 172,
           "rsi": "Agastya",
           "deity": "The Maruts",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -19956,7 +19956,7 @@
           "suktaNumber": 173,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20095,7 +20095,7 @@
           "suktaNumber": 174,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -20204,7 +20204,7 @@
           "suktaNumber": 175,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -20273,7 +20273,7 @@
           "suktaNumber": 176,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Aṇuṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20342,7 +20342,7 @@
           "suktaNumber": 177,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20401,7 +20401,7 @@
           "suktaNumber": 178,
           "rsi": "Agastya",
           "deity": "Indra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20460,7 +20460,7 @@
           "suktaNumber": 179,
           "rsi": "Agastya",
           "deity": "Agastya and Lopamudra",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20529,7 +20529,7 @@
           "suktaNumber": 180,
           "rsi": "Agastya",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20638,7 +20638,7 @@
           "suktaNumber": 181,
           "rsi": "Agastya",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20737,7 +20737,7 @@
           "suktaNumber": 182,
           "rsi": "Agastya",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Jagatī",
           "verses": [
             {
               "verseNumber": 1,
@@ -20826,7 +20826,7 @@
           "suktaNumber": 183,
           "rsi": "Agastya",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20895,7 +20895,7 @@
           "suktaNumber": 184,
           "rsi": "Agastya",
           "deity": "Asvins",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -20964,7 +20964,7 @@
           "suktaNumber": 185,
           "rsi": "Agastya",
           "deity": "Heaven and Earth",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -21083,7 +21083,7 @@
           "suktaNumber": 186,
           "rsi": "Agastya",
           "deity": "All the Gods",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -21202,7 +21202,7 @@
           "suktaNumber": 187,
           "rsi": "Agastya",
           "deity": "Food and Drink",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
@@ -21321,7 +21321,7 @@
           "suktaNumber": 188,
           "rsi": "Agastya",
           "deity": "Apri Hymn",
-          "meter": "Unknown",
+          "meter": "Gāyatrī",
           "verses": [
             {
               "verseNumber": 1,
@@ -21440,7 +21440,7 @@
           "suktaNumber": 189,
           "rsi": "Agastya",
           "deity": "Agni",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -21529,7 +21529,7 @@
           "suktaNumber": 190,
           "rsi": "Agastya",
           "deity": "Brihaspati",
-          "meter": "Unknown",
+          "meter": "Triṣṭubh",
           "verses": [
             {
               "verseNumber": 1,
@@ -21618,7 +21618,7 @@
           "suktaNumber": 191,
           "rsi": "Agastya",
           "deity": "Against Venomous Animals",
-          "meter": "Unknown",
+          "meter": "",
           "verses": [
             {
               "verseNumber": 1,
