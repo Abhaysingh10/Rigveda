@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { searchIndex } from '../lib/searchIndex';
 import { SearchResult } from '../lib/searchIndex';
 
@@ -16,17 +16,28 @@ const SearchBar: React.FC<SearchBarProps> = ({
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [showResults, setShowResults] = useState(false);
+  const inputRef = useRef<HTMLInputElement | null>(null);
+
+  const debouncedSearch = useMemo(() => {
+    let timeout: any;
+    return (value: string) => {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => {
+        if (value.trim()) {
+          const searchResults = searchIndex.search(value);
+          setResults(searchResults.slice(0, 5));
+          setShowResults(true);
+        } else {
+          setResults([]);
+          setShowResults(false);
+        }
+      }, 200);
+    };
+  }, []);
 
   const handleSearch = (searchQuery: string) => {
     setQuery(searchQuery);
-    if (searchQuery.trim()) {
-      const searchResults = searchIndex.search(searchQuery);
-      setResults(searchResults.slice(0, 5)); // Show top 5 results
-      setShowResults(true);
-    } else {
-      setResults([]);
-      setShowResults(false);
-    }
+    debouncedSearch(searchQuery);
   };
 
   const handleResultClick = (mandalaNumber: number, suktaNumber: number) => {
@@ -34,6 +45,17 @@ const SearchBar: React.FC<SearchBarProps> = ({
     setQuery('');
     setShowResults(false);
   };
+
+  useEffect(() => {
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === '/' && !e.defaultPrevented) {
+        e.preventDefault();
+        inputRef.current?.focus();
+      }
+    };
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, []);
 
   return (
     <div className={`relative ${className}`}>
@@ -46,6 +68,7 @@ const SearchBar: React.FC<SearchBarProps> = ({
           onFocus={() => query.trim() && setShowResults(true)}
           onBlur={() => setTimeout(() => setShowResults(false), 200)}
           className="w-full px-4 py-2 pl-10 pr-4 text-earth-800 dark:text-earth-200 bg-earth-50 dark:bg-gray-700 border border-earth-300 dark:border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-saffron-500 focus:border-transparent"
+          ref={inputRef}
         />
         <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
           <svg className="h-5 w-5 text-earth-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">

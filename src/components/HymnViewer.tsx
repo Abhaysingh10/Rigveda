@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { Sukta, ViewMode } from '../types/rigveda';
 
 interface HymnViewerProps {
@@ -40,6 +40,19 @@ const HymnViewer: React.FC<HymnViewerProps> = ({ sukta, mandalaNumber }) => {
     }
   };
 
+  const citationText = useMemo(() => {
+    const base = `Mandala ${mandalaNumber}, Hymn ${sukta.suktaNumber}`;
+    const source = sukta.verses[0]?.translation?.source || 'Unknown Source';
+    return `${base}. Translation: ${source}.`;
+  }, [mandalaNumber, sukta]);
+
+  const copyCitation = async () => {
+    try {
+      await navigator.clipboard.writeText(citationText);
+      alert('Citation copied');
+    } catch {}
+  };
+
   return (
     <div className="max-w-5xl mx-auto">
       {/* Header */}
@@ -48,6 +61,10 @@ const HymnViewer: React.FC<HymnViewerProps> = ({ sukta, mandalaNumber }) => {
           <h1 className="text-4xl md:text-5xl font-bold text-earth-800 dark:text-earth-200 mb-6 tracking-tight">
             Mandala {mandalaNumber}, Hymn {sukta.suktaNumber}
           </h1>
+          <div className="flex items-center justify-center gap-3 mb-4">
+            <button onClick={copyCitation} className="px-3 py-1.5 text-sm rounded bg-saffron-600 text-white hover:bg-saffron-700">Copy citation</button>
+            <a href="/data/rigveda.sample.json" className="text-sm text-saffron-700 dark:text-saffron-300 underline">About data</a>
+          </div>
           
           <div className="flex flex-wrap justify-center gap-4 md:gap-6 mb-6">
             <div className="text-center bg-white dark:bg-gray-800 rounded-xl p-3 md:p-4 shadow-md border border-earth-100 dark:border-gray-600 min-w-[100px] md:min-w-[120px]">
@@ -102,22 +119,32 @@ const HymnViewer: React.FC<HymnViewerProps> = ({ sukta, mandalaNumber }) => {
 
       {/* Verses */}
       <div className="space-y-8">
-        {sukta.verses.map((verse) => (
-          <div key={verse.verseNumber} className="bg-white dark:bg-gray-800 rounded-2xl p-4 md:p-8 shadow-lg border border-earth-200 dark:border-gray-600 hover:shadow-xl transition-shadow duration-300">
-            <div className="flex items-start space-x-4 md:space-x-6">
-              <div className="flex-shrink-0 w-12 h-12 bg-gradient-to-br from-saffron-400 to-saffron-600 rounded-full flex items-center justify-center shadow-md">
-                <span className="text-lg font-bold text-white">
-                  {verse.verseNumber}
-                </span>
-              </div>
-              <div className="flex-1">
-                <div className="prose prose-lg max-w-none">
-                  {renderVerseContent(verse)}
+        {sukta.verses.length === 0 ? (
+          Array.from({ length: 5 }).map((_, idx) => (
+            <div key={idx} className="bg-white dark:bg-gray-800 rounded-2xl p-8 border border-earth-200 dark:border-gray-600 animate-pulse">
+              <div className="h-6 w-24 bg-earth-100 dark:bg-gray-700 rounded mb-4"></div>
+              <div className="h-4 w-full bg-earth-100 dark:bg-gray-700 rounded mb-2"></div>
+              <div className="h-4 w-5/6 bg-earth-100 dark:bg-gray-700 rounded"></div>
+            </div>
+          ))
+        ) : (
+          sukta.verses.map((verse) => (
+            <div key={verse.verseNumber} className="bg-white dark:bg-gray-800 rounded-2xl p-4 md:p-8 shadow-lg border border-earth-200 dark:border-gray-600 hover:shadow-xl transition-shadow duration-300">
+              <div className="flex items-start space-x-4 md:space-x-6">
+                <div className="flex-shrink-0 w-12 h-12 bg-gradient-to-br from-saffron-400 to-saffron-600 rounded-full flex items-center justify-center shadow-md">
+                  <span className="text-lg font-bold text-white">
+                    {verse.verseNumber}
+                  </span>
+                </div>
+                <div className="flex-1">
+                  <div className="prose prose-lg max-w-none">
+                    {renderVerseContent(verse)}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        ))}
+          ))
+        )}
       </div>
 
       {/* Translation Attribution */}

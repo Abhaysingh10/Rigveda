@@ -93,6 +93,12 @@ const Navbar: React.FC<NavbarProps> = ({ darkMode, setDarkMode }) => {
 
           {/* Action Buttons */}
           <div className="flex items-center space-x-4">
+            <a
+              href="/tree"
+              className="px-3 py-2 rounded-lg bg-saffron-100 dark:bg-saffron-900 text-saffron-800 dark:text-saffron-200 hover:bg-saffron-200 dark:hover:bg-saffron-800 transition-colors animate-pulse"
+            >
+              Tree Explorer
+            </a>
             <button
               onClick={handleRandomHymn}
               className="px-4 py-2 bg-saffron-600 text-white rounded-lg hover:bg-saffron-700 transition-colors duration-200"

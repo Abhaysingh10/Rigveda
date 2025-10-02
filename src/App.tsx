@@ -1,11 +1,13 @@
 import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React from 'react';
 import { RigvedaData } from './types/rigveda';
 import { loadRigvedaData } from './lib/dataLoader';
 import { searchIndex } from './lib/searchIndex';
-import Home from './pages/Home';
-import MandalaPage from './pages/MandalaPage';
-import HymnPage from './pages/HymnPage';
+const Home = React.lazy(() => import('./pages/Home'));
+const MandalaPage = React.lazy(() => import('./pages/MandalaPage'));
+const HymnPage = React.lazy(() => import('./pages/HymnPage'));
+const TreeExplorer = React.lazy(() => import('./pages/TreeExplorer'));
 import Navbar from './components/Navbar';
 import FooterCredits from './components/FooterCredits';
 
@@ -87,11 +89,14 @@ function App() {
       <div className="min-h-screen bg-earth-50 dark:bg-gray-900">
         <Navbar darkMode={darkMode} setDarkMode={setDarkMode} />
         <main className="container mx-auto px-4 py-8">
-          <Routes>
-            <Route path="/" element={<Home data={data} />} />
-            <Route path="/mandala/:mandalaNumber" element={<MandalaPage data={data} />} />
-            <Route path="/mandala/:mandalaNumber/hymn/:suktaNumber" element={<HymnPage data={data} />} />
-          </Routes>
+          <React.Suspense fallback={<div className="min-h-[50vh] flex items-center justify-center"><div className="animate-spin rounded-full h-10 w-10 border-b-2 border-saffron-600" /></div>}>
+            <Routes>
+              <Route path="/" element={<Home data={data} />} />
+              <Route path="/mandala/:mandalaNumber" element={<MandalaPage data={data} />} />
+              <Route path="/mandala/:mandalaNumber/hymn/:suktaNumber" element={<HymnPage data={data} />} />
+              <Route path="/tree" element={<TreeExplorer data={data} />} />
+            </Routes>
+          </React.Suspense>
         </main>
         <FooterCredits />
       </div>

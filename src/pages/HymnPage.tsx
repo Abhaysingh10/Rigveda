@@ -88,6 +88,14 @@ const HymnPage: React.FC<HymnPageProps> = ({ data }) => {
               Hymn {suktaNum}
             </span>
           </div>
+          <div>
+            <button
+              onClick={() => navigate('/tree')}
+              className="px-3 py-2 bg-earth-100 dark:bg-gray-700 text-earth-700 dark:text-earth-200 rounded hover:bg-earth-200 dark:hover:bg-gray-600"
+            >
+              View in Tree
+            </button>
+          </div>
         </div>
       </div>
 

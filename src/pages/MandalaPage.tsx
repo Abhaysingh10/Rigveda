@@ -82,12 +82,20 @@ const MandalaPage: React.FC<MandalaPageProps> = ({ data }) => {
               {mandala.suktas.length} {mandala.suktas.length === 1 ? 'Hymn' : 'Hymns'}
             </p>
           </div>
-          <button
-            onClick={() => navigate('/')}
-            className="px-4 py-2 text-earth-600 dark:text-earth-400 hover:text-earth-800 dark:hover:text-earth-200 transition-colors duration-200"
-          >
-            ← Back to Mandalas
-          </button>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => navigate(`/tree`)}
+              className="px-3 py-2 bg-earth-100 dark:bg-gray-700 text-earth-700 dark:text-earth-200 rounded hover:bg-earth-200 dark:hover:bg-gray-600"
+            >
+              View in Tree
+            </button>
+            <button
+              onClick={() => navigate('/')}
+              className="px-4 py-2 text-earth-600 dark:text-earth-400 hover:text-earth-800 dark:hover:text-earth-200 transition-colors duration-200"
+            >
+              ← Back to Mandalas
+            </button>
+          </div>
         </div>
 
         {/* Search Bar */}

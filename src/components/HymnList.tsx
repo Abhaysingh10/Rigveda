@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Sukta } from '../types/rigveda';
 import ViewModeToggle, { ViewMode } from './ViewModeToggle';
 import HymnGridView from './HymnGridView';
@@ -12,6 +12,19 @@ interface HymnListProps {
 
 const HymnList: React.FC<HymnListProps> = ({ suktas, mandalaNumber }) => {
   const [viewMode, setViewMode] = useState<ViewMode>('card');
+
+  useEffect(() => {
+    const saved = window.localStorage.getItem('viewMode');
+    if (saved === 'grid' || saved === 'card' || saved === 'compact') {
+      setViewMode(saved as ViewMode);
+    } else {
+      setViewMode('compact');
+    }
+  }, []);
+
+  useEffect(() => {
+    window.localStorage.setItem('viewMode', viewMode);
+  }, [viewMode]);
 
   const renderView = () => {
     switch (viewMode) {
@@ -38,8 +51,16 @@ const HymnList: React.FC<HymnListProps> = ({ suktas, mandalaNumber }) => {
         <ViewModeToggle currentMode={viewMode} onModeChange={setViewMode} />
       </div>
 
-      {/* Content */}
-      {renderView()}
+      {/* Content or Skeleton */}
+      {suktas.length === 0 ? (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {Array.from({ length: 6 }).map((_, i) => (
+            <div key={i} className="h-32 bg-earth-100 dark:bg-gray-800 rounded-lg animate-pulse" />
+          ))}
+        </div>
+      ) : (
+        renderView()
+      )}
     </div>
   );
 };

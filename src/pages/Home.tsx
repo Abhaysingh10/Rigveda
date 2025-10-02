@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { RigvedaData } from '../types/rigveda';
 import MandalaGrid from '../components/MandalaGrid';
+import SearchBar from '../components/SearchBar';
 
 interface HomeProps {
   data: RigvedaData;
@@ -27,6 +28,10 @@ const Home: React.FC<HomeProps> = ({ data }) => {
         searchInput.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }, 100);
+  };
+
+  const handleHeroResult = (mandalaNumber: number, suktaNumber: number) => {
+    navigate(`/mandala/${mandalaNumber}/hymn/${suktaNumber}`);
   };
 
   const handleViewModesClick = () => {
@@ -69,7 +74,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
         <div className="absolute top-96 right-1/5 w-2.5 h-2.5 bg-red-400 rounded-full opacity-35 animate-ping-slow delay-3000"></div>
       </div>
 
-      {/* Hero Section with Animations */}
+      {/* Hero Section with Animations + Hero Search */}
       <div className={`text-center mb-12 relative z-10 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
         <div className="relative inline-block">
           <h1 className="text-4xl md:text-5xl font-bold text-earth-800 dark:text-earth-200 mb-6 relative">
@@ -88,6 +93,29 @@ const Home: React.FC<HomeProps> = ({ data }) => {
             Explore the ancient wisdom of the Rig Veda through its ten Mandalas. 
             Discover hymns, deities, and the profound teachings of the Vedic seers.
           </p>
+          <div className="max-w-2xl mx-auto mb-6">
+            <SearchBar
+              onResultClick={handleHeroResult}
+              placeholder="Search hymns, deities, meters… (press / to focus)"
+              className="shadow-lg"
+            />
+          </div>
+          <div className="flex items-center justify-center gap-3 mb-6">
+            <a
+              href="/tree"
+              className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-r from-saffron-600 to-saffron-500 text-white font-semibold shadow-lg hover:from-saffron-500 hover:to-saffron-400 focus:outline-none focus:ring-4 focus:ring-saffron-200 dark:focus:ring-saffron-800 transition-all duration-200 animate-pulse"
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0l-3-3m3 3l3-3M6 18h12" /></svg>
+              Explore Tree Explorer
+              <span className="ml-2 text-xs bg-white/20 px-2 py-0.5 rounded-full">New</span>
+            </a>
+            <a
+              href="#mandalas"
+              className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-earth-100 dark:bg-gray-800 text-earth-800 dark:text-earth-100 font-medium shadow hover:bg-earth-200 dark:hover:bg-gray-700 transition-all duration-200"
+            >
+              Browse Mandalas
+            </a>
+          </div>
           <div className="flex items-center justify-center space-x-4 text-sm text-earth-500 dark:text-earth-500">
             <div className="flex items-center space-x-2">
               <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
@@ -103,6 +131,11 @@ const Home: React.FC<HomeProps> = ({ data }) => {
               <div className="w-2 h-2 bg-purple-500 rounded-full animate-pulse delay-1000"></div>
               <span>Public Domain</span>
             </div>
+            <div className="w-1 h-1 bg-earth-400 rounded-full"></div>
+            <a href="/tree" className="inline-flex items-center gap-2 px-3 py-1.5 bg-earth-100 dark:bg-gray-800 rounded-full text-earth-700 dark:text-earth-200 hover:bg-earth-200 dark:hover:bg-gray-700 transition-colors">
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 20l6-6 6 6M6 4l6 6 6-6" /></svg>
+              Tree Explorer
+            </a>
           </div>
         </div>
       </div>
